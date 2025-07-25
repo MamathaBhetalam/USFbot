@@ -1,0 +1,939 @@
+{
+    "admissions": [
+      {
+        "type": "undergraduate_requirements",
+        "gpa_requirement": "3.0 minimum",
+        "sat_range": "1240-1360",
+        "act_range": "26-30",
+        "application_deadlines": {
+          "fall": "March 1 (priority), May 1 (final)",
+          "spring": "October 1",
+          "summer": "March 1"
+        },
+        "application_fee": "$30",
+        "required_documents": ["High school transcript", "SAT/ACT scores", "Personal essay", "Letter of recommendation"],
+        "additional_requirements": {
+          "english_units": "4 years",
+          "math_units": "4 years (including Algebra II)",
+          "science_units": "3 years (2 with laboratory)",
+          "social_studies_units": "3 years",
+          "foreign_language_units": "2 years (same language)",
+          "electives_units": "2 years"
+        },
+        "transfer_requirements": {
+          "minimum_credits": "60 transferable credits for junior standing",
+          "gpa_requirement": "2.0 minimum",
+          "articulation_agreements": ["Florida College System", "Georgia Southern University System", "SUNY system"],
+          "credit_evaluation": "WES evaluation required for international transcripts",
+          "maximum_transfer_credits": "120 credits"
+        }
+      },
+      {
+        "type": "graduate_requirements",
+        "gpa_requirement": "3.0 minimum in last 60 hours",
+        "gre_required": "Varies by program",
+        "application_deadlines": "Varies by program",
+        "application_fee": "$30",
+        "required_documents": ["Official transcripts", "GRE scores (if required)", "Statement of purpose", "Letters of recommendation", "Resume/CV"],
+        "english_proficiency": {
+          "toefl_minimum": "79 iBT",
+          "ielts_minimum": "6.5",
+          "duolingo_minimum": "105",
+          "pte_minimum": "53"
+        },
+        "program_specific_requirements": {
+          "mba": {
+            "gmat_preferred": "550+",
+            "work_experience": "2 years preferred",
+            "prerequisites": ["Statistics", "Microeconomics", "Financial Accounting"]
+          },
+          "engineering": {
+            "gre_required": true,
+            "minimum_gre_quant": "155",
+            "prerequisite_courses": "Program dependent"
+          },
+          "education": {
+            "teaching_certificate": "Required for some programs",
+            "background_check": "Required",
+            "field_experience": "Required"
+          }
+        }
+      },
+      {
+        "type": "international_admissions",
+        "application_fee": "$30",
+        "additional_requirements": [
+          "Passport copy",
+          "Financial documentation ($45,000+ for undergraduate)",
+          "Academic credential evaluation",
+          "Health insurance proof",
+          "Immigration documents"
+        ],
+        "deadlines": {
+          "fall": "April 1",
+          "spring": "September 1",
+          "summer": "February 1"
+        },
+        "support_services": [
+          "International Student Orientation",
+          "Visa assistance",
+          "Cultural adjustment programs",
+          "English language support"
+        ]
+      }
+    ],
+    "academics": [
+      {
+        "colleges": [
+          "College of Arts and Sciences",
+          "Muma College of Business",
+          "College of Education",
+          "College of Engineering",
+          "Morsani College of Medicine",
+          "College of Nursing",
+          "College of Public Health",
+          "College of Marine Science",
+          "Taneja College of Pharmacy",
+          "Honors College",
+          "College of Graduate Studies",
+          "College of Undergraduate Studies"
+        ]
+      },
+      {
+        "detailed_programs": {
+          "undergraduate": {
+            "college_of_arts_sciences": [
+              "Anthropology", "Biology", "Chemistry", "Communication", "Computer Science",
+              "Criminal Justice", "English", "Environmental Science", "Geography",
+              "Geology", "History", "Mathematics", "Philosophy", "Physics",
+              "Political Science", "Psychology", "Religious Studies", "Sociology",
+              "World Languages", "Theatre Arts", "Music", "Art"
+            ],
+            "muma_college_business": [
+              "Accounting", "Economics", "Entrepreneurship", "Finance",
+              "Information Systems", "Management", "Marketing", "Real Estate"
+            ],
+            "college_engineering": [
+              "Biomedical Engineering", "Chemical Engineering", "Civil Engineering",
+              "Computer Engineering", "Computer Science", "Electrical Engineering",
+              "Industrial Engineering", "Mechanical Engineering"
+            ],
+            "college_education": [
+              "Art Education", "Elementary Education", "English Education",
+              "Mathematics Education", "Music Education", "Physical Education",
+              "Science Education", "Social Science Education", "Special Education"
+            ]
+          },
+          "graduate": {
+            "doctoral_programs": [
+              "Biomedical Sciences", "Business Administration", "Curriculum and Instruction",
+              "Educational Leadership", "Engineering", "Marine Science", "Medicine",
+              "Nursing Practice", "Pharmacy", "Philosophy", "Psychology", "Public Health"
+            ],
+            "masters_programs": [
+              "Applied Behavior Analysis", "Architecture", "Business Administration",
+              "Creative Writing", "Data Science", "Library Science", "Public Administration",
+              "Social Work", "Urban Planning", "Rehabilitation Counseling"
+            ]
+          }
+        }
+      },
+      {
+        "popular_majors": [
+          "Business Administration",
+          "Psychology",
+          "Biology",
+          "Computer Science",
+          "Engineering",
+          "Education",
+          "Nursing",
+          "Medicine",
+          "Public Health",
+          "Marine Science",
+          "Information Technology",
+          "Criminal Justice",
+          "Health Sciences"
+        ]
+      },
+      {
+        "academic_calendar": {
+          "fall_semester": "Late August - Mid December",
+          "spring_semester": "Mid January - Early May",
+          "summer_sessions": "May - August (A, B, C sessions available)",
+          "winter_session": "December - January (Maymester also available)",
+          "important_dates_2025": {
+            "spring_classes_begin": "January 13, 2025",
+            "spring_break": "March 10-14, 2025",
+            "spring_finals": "April 28 - May 2, 2025",
+            "summer_registration": "March 3, 2025",
+            "fall_registration": "April 7, 2025"
+          }
+        }
+      },
+      {
+        "rankings_2024": {
+          "us_news_national": "105",
+          "public_universities": "44",
+          "best_value": "Top 50",
+          "undergraduate_engineering": "84",
+          "business_programs": "78",
+          "nursing": "65",
+          "public_health": "32",
+          "marine_science": "Top 10",
+          "medicine_research": "74"
+        }
+      },
+      {
+        "research_centers": [
+          {
+            "name": "Health Informatics Institute",
+            "focus": "Digital health technologies",
+            "funding": "$15M annual"
+          },
+          {
+            "name": "Center for Advanced Medical Learning",
+            "focus": "Medical simulation training",
+            "facilities": "14,000 sq ft simulation center"
+          },
+          {
+            "name": "Florida Institute of Oceanography",
+            "focus": "Marine research",
+            "vessels": "Research vessel fleet"
+          },
+          {
+            "name": "Nanomaterials and Nanomanufacturing Research Center",
+            "focus": "Nanotechnology applications",
+            "equipment": "Clean room facilities"
+          }
+        ]
+      }
+    ],
+    "campus_life": [
+      {
+        "student_organizations": "700+ registered student organizations",
+        "greek_life": "60+ fraternities and sororities",
+        "recreational_sports": "50+ intramural and club sports",
+        "fitness_facilities": "Campus Recreation Center, Outdoor Adventures, Aquatic Complex",
+        "detailed_organizations": {
+          "academic": [
+            "Pre-Med Society", "Engineering Student Organizations", "Business Clubs",
+            "Honor Societies", "Research Groups", "Academic Competition Teams"
+          ],
+          "cultural": [
+            "International Student Association", "Cultural Heritage Organizations",
+            "Language Clubs", "Religious Organizations", "Multicultural Groups"
+          ],
+          "service": [
+            "Habitat for Humanity", "Best Buddies", "Bulls Service Break",
+            "Community Garden", "Volunteer USF", "Red Cross Club"
+          ],
+          "special_interest": [
+            "Anime Club", "Gaming Organizations", "Outdoor Adventure Club",
+            "Photography Club", "Dance Teams", "Music Ensembles"
+          ]
+        }
+      },
+      {
+        "housing_options": [
+          "Traditional residence halls",
+          "Suite-style living",
+          "Apartment-style housing",
+          "Living-learning communities",
+          "Greek housing",
+          "Graduate and family housing",
+          "Honors residential communities"
+        ],
+        "detailed_housing": {
+          "freshman_halls": [
+            {
+              "name": "Kosove Hall",
+              "capacity": "400 students",
+              "room_type": "Traditional double",
+              "amenities": ["Study lounges", "Laundry", "Recreation room"],
+              "cost_per_semester": "$3,200"
+            },
+            {
+              "name": "Mu Hall",
+              "capacity": "500 students", 
+              "room_type": "Suite-style",
+              "amenities": ["Private bathroom", "Common area", "Kitchen access"],
+              "cost_per_semester": "$3,800"
+            }
+          ],
+          "apartments": [
+            {
+              "name": "The Village",
+              "capacity": "4,200 students",
+              "room_type": "1-4 bedroom apartments",
+              "amenities": ["Full kitchen", "Living room", "Washer/dryer", "Parking"],
+              "cost_per_semester": "$4,500-$6,200"
+            }
+          ],
+          "specialty_housing": [
+            {
+              "name": "Honors Living Learning Community",
+              "description": "Academic-focused community for Honors students",
+              "location": "Juniper-Poplar Hall"
+            },
+            {
+              "name": "Wellness Living Learning Community",
+              "description": "Health and wellness focused community",
+              "programming": "Fitness classes, nutrition workshops"
+            }
+          ]
+        }
+      },
+      {
+        "campus_facilities": [
+          "Marshall Student Center",
+          "Tampa Library (5 floors)",
+          "Student Recreation Center",
+          "Yuengling Center",
+          "Contemporary Art Museum",
+          "Botanical Gardens",
+          "Sun Dome"
+        ],
+        "detailed_facilities": {
+          "marshall_student_center": {
+            "floors": 4,
+            "amenities": [
+              "Food court", "Bookstore", "Student organization offices",
+              "Meeting rooms", "Event spaces", "ATMs", "Study areas"
+            ],
+            "hours": "6:00 AM - 2:00 AM daily"
+          },
+          "recreation_center": {
+            "square_footage": "123,000",
+            "amenities": [
+              "Fitness equipment", "Group fitness studios", "Rock climbing wall",
+              "Swimming pool", "Basketball courts", "Racquetball courts",
+              "Personal training", "Equipment rental"
+            ],
+            "hours": "5:00 AM - 11:00 PM weekdays"
+          }
+        }
+      }
+    ],
+    "dining": [
+        {
+          "plan_name": "Unlimited Meal Plan",
+          "price_per_semester": "$2,890",
+          "price_per_year": "$5,780",
+          "meals_per_week": "Unlimited",
+          "dining_dollars": "$150 per semester",
+          "description": "Perfect for students who eat most meals on campus"
+        },
+        {
+          "plan_name": "Block 150 Plan",
+          "price_per_semester": "$2,340",
+          "price_per_year": "$4,680",
+          "meals_per_week": "~10 meals",
+          "dining_dollars": "$200 per semester",
+          "description": "Great balance of meals and flexibility"
+        },
+        {
+          "plan_name": "Block 100 Plan",
+          "price_per_semester": "$1,890",
+          "price_per_year": "$3,780",
+          "meals_per_week": "~7 meals",
+          "dining_dollars": "$250 per semester",
+          "description": "Good for lighter eaters or commuter students"
+        },
+        {
+          "plan_name": "Commuter Plan",
+          "price_per_semester": "$890",
+          "price_per_year": "$1,780",
+          "meals_per_week": "50 meals per semester",
+          "dining_dollars": "$100 per semester",
+          "description": "Designed for students living off-campus"
+        }
+      ],
+      "dining_locations": [
+        {
+          "location": "Fresh Food Company",
+          "type": "All-you-care-to-eat buffet",
+          "meal_swipe_cost": "1 meal swipe",
+          "cash_price": "$14.50",
+          "hours": "7:00 AM - 10:00 PM"
+        },
+        {
+          "location": "Subway",
+          "type": "Quick service",
+          "average_meal_cost": "$8-12",
+          "accepts": "Dining dollars, meal swipes, cash"
+        },
+        {
+          "location": "Starbucks",
+          "type": "Coffee & light meals",
+          "average_cost": "$5-10",
+          "accepts": "Dining dollars, cash, credit"
+        },
+        {
+          "location": "Panda Express",
+          "type": "Asian fast food",
+          "average_meal_cost": "$9-13",
+          "accepts": "Dining dollars, meal swipes, cash"
+        }
+      ],
+      "individual_prices": [
+        {
+          "item": "Breakfast entree",
+          "price_range": "$4-8"
+        },
+        {
+          "item": "Lunch entree",
+          "price_range": "$6-12"
+        },
+        {
+          "item": "Dinner entree",
+          "price_range": "$8-15"
+        },
+        {
+          "item": "Coffee/beverages",
+          "price_range": "$2-6"
+        },
+        {
+          "item": "Snacks",
+          "price_range": "$1-5"
+        }
+      ],
+    "athletics": [
+      {
+        "conference": "American Athletic Conference (AAC)",
+        "mascot": "Rocky the Bull",
+        "colors": "Green and Gold",
+        "sports_teams": [
+          "Football",
+          "Basketball (Men's & Women's)",
+          "Baseball",
+          "Softball",
+          "Soccer (Men's & Women's)",
+          "Tennis (Men's & Women's)",
+          "Golf (Men's & Women's)",
+          "Track and Field",
+          "Cross Country (Men's & Women's)",
+          "Swimming and Diving",
+          "Volleyball",
+          "Sailing"
+        ],
+        "recent_achievements": [
+          "AAC Championship - Football 2023",
+          "NCAA Tournament - Basketball 2023",
+          "College World Series - Baseball 2023",
+          "AAC Champions - Women's Soccer 2024"
+        ]
+      },
+      {
+        "facilities": [
+          {
+            "name": "Raymond James Stadium",
+            "sport": "Football",
+            "capacity": "65,000",
+            "notes": "Home of Tampa Bay Buccaneers (NFL)",
+            "amenities": ["Club level seating", "Premium suites", "State-of-the-art video board"]
+          },
+          {
+            "name": "Yuengling Center",
+            "sport": "Basketball/Events",
+            "capacity": "10,500",
+            "amenities": ["Premium seating", "Student section", "Concession stands"]
+          },
+          {
+            "name": "USF Baseball Stadium",
+            "sport": "Baseball", 
+            "capacity": "3,211",
+            "features": ["Natural grass field", "Dugout suites", "Concession plaza"]
+          },
+          {
+            "name": "USF Softball Stadium",
+            "sport": "Softball",
+            "capacity": "1,000",
+            "features": ["Championship-caliber field", "Press box", "Player facilities"]
+          }
+        ],
+        "ticket_information": {
+          "student_tickets": "Free with valid USF ID",
+          "season_packages": "Available for all sports",
+          "single_game": "$10-$50 depending on sport/seating",
+          "parking": "$10-$25 per game"
+        }
+      }
+    ],
+    "services": [
+      {
+        "academic_support": [
+          {
+            "name": "Academic Success Center",
+            "services": ["Tutoring", "Study groups", "Academic coaching", "Learning specialists"],
+            "location": "LIB 2nd floor",
+            "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+            "contact": "(813) 974-2729"
+          },
+          {
+            "name": "Writing Studio",
+            "services": ["Writing assistance", "Citation help", "Presentation support", "Graduate writing support"],
+            "location": "LIB 2nd floor", 
+            "hours": "Monday-Thursday 10:00 AM - 8:00 PM, Friday 10:00 AM - 3:00 PM",
+            "appointments": "Walk-in or online scheduling"
+          },
+          {
+            "name": "Math Lab",
+            "services": ["Math tutoring", "Statistics help", "Calculus support"],
+            "location": "CMC 108",
+            "hours": "Monday-Friday 8:00 AM - 5:00 PM"
+          },
+          {
+            "name": "Supplemental Instruction",
+            "services": ["Peer-led study sessions", "Course-specific support"],
+            "subjects": ["Chemistry", "Biology", "Physics", "Mathematics", "Statistics"]
+          }
+        ]
+      },
+      {
+        "student_health": [
+          {
+            "name": "Student Health Services",
+            "services": ["Primary care", "Mental health", "Pharmacy", "Laboratory", "Urgent care"],
+            "location": "SHS Building",
+            "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+            "phone": "(813) 974-2331",
+            "insurance": "Most insurance plans accepted"
+          },
+          {
+            "name": "Counseling Center",
+            "services": ["Individual counseling", "Group therapy", "Crisis intervention", "Psychiatric services"],
+            "location": "SHS Building",
+            "hours": "Monday-Friday 8:00 AM - 5:00 PM, 24/7 crisis line",
+            "phone": "(813) 974-2831",
+            "specialty_services": ["LGBTQ+ counseling", "Trauma therapy", "Eating disorder support"]
+          },
+          {
+            "name": "Center for Victim Advocacy",
+            "services": ["Crisis intervention", "Support groups", "Legal advocacy"],
+            "location": "SHS Building",
+            "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+            "phone": "(813) 974-5757"
+          }
+        ]
+      },
+      {
+        "career_services": {
+          "name": "Career Services",
+          "location": "Marshall Student Center Suite 3200",
+          "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+          "services": [
+            "Resume and cover letter assistance",
+            "Interview preparation",
+            "Job search strategies",
+            "Career fairs",
+            "Internship placement",
+            "Graduate school advising",
+            "Networking events",
+            "Industry panels"
+          ],
+          "career_fairs": [
+            "Fall Career Fair - September",
+            "Spring Career Fair - February", 
+            "STEM Career Fair - October",
+            "Graduate School Fair - November"
+          ],
+          "employer_partners": [
+            "Lockheed Martin", "Nielsen", "PwC", "Deloitte", "Microsoft",
+            "Disney", "Tampa General Hospital", "Moffitt Cancer Center"
+          ]
+        }
+      },
+      {
+        "technology_services": {
+          "name": "Information Technology Services",
+          "location": "Library 1st floor",
+          "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+          "services": [
+            "Computer labs", "Software support", "Network access", "Email support",
+            "Password resets", "Equipment checkout", "Training workshops"
+          ],
+          "computer_labs": [
+            {
+              "name": "Main Computer Lab",
+              "location": "Library 1st floor",
+              "computers": 120,
+              "hours": "24/7"
+            },
+            {
+              "name": "Engineering Lab",
+              "location": "Engineering Building",
+              "computers": 80,
+              "specialized_software": ["CAD", "MATLAB", "Programming IDEs"]
+            }
+          ]
+        }
+      }
+    ],
+    "library": [
+      {
+        "name": "USF Tampa Library",
+        "floors": 5,
+        "study_spaces": "2,500+ seats",
+        "hours": {
+          "monday_thursday": "7:30 AM - 2:00 AM",
+          "friday": "7:30 AM - 8:00 PM",
+          "saturday": "10:00 AM - 8:00 PM", 
+          "sunday": "12:00 PM - 2:00 AM"
+        },
+        "services": [
+          "Research assistance",
+          "Computer labs",
+          "Group study rooms",
+          "Silent study areas",
+          "Printing services",
+          "Equipment checkout",
+          "24/7 study space",
+          "Graduate student carrels"
+        ],
+        "collections": {
+          "books": "2.5 million volumes",
+          "digital_resources": "500+ databases",
+          "journals": "100,000+ electronic journals",
+          "special_collections": "50,000+ items"
+        }
+      },
+      {
+        "special_collections": [
+          "Florida Studies Center",
+          "Special Collections",
+          "Digital Collections",
+          "Government Documents",
+          "Archives and Manuscripts"
+        ],
+        "branch_libraries": [
+          {
+            "name": "Shimberg Health Sciences Library",
+            "location": "Health Sciences Center",
+            "specialization": "Medical and health sciences resources"
+          },
+          {
+            "name": "Engineering Library",
+            "location": "Engineering Building",
+            "specialization": "Engineering and technology resources"
+          }
+        ]
+      }
+    ],
+    "parking": [
+      {
+        "permit_types_2024_2025": [
+          {
+            "type": "Student Annual",
+            "cost": "$168",
+            "zones": "Green, Orange zones"
+          },
+          {
+            "type": "Student Semester",
+            "cost": "$95",
+            "zones": "Green, Orange zones"
+          },
+          {
+            "type": "Resident Student",
+            "cost": "$168",
+            "zones": "All zones including Red"
+          },
+          {
+            "type": "Daily Visitor",
+            "cost": "$5",
+            "zones": "Visitor lots only"
+          },
+          {
+            "type": "Hourly Parking",
+            "cost": "$2/hour",
+            "zones": "Visitor lots and meters"
+          }
+        ]
+      },
+      {
+        "transportation": [
+          {
+            "name": "Bull Runner",
+            "type": "Campus shuttle",
+            "cost": "Free with USF ID",
+            "hours": "7:00 AM - 11:00 PM weekdays, 10:00 AM - 11:00 PM weekends",
+            "routes": ["Gold Line", "Green Line", "Blue Line"],
+            "frequency": "Every 10-15 minutes during peak hours"
+          },
+          {
+            "name": "HART Bus",
+            "type": "Public transit",
+            "cost": "Free with USF ID",
+            "routes": "Multiple Tampa routes"
+          },
+          {
+            "name": "Lime Scooters",
+            "type": "Electric scooter sharing",
+            "cost": "Per ride pricing",
+            "availability": "Campus-wide"
+          }
+        ],
+        "parking_locations": [
+          {
+            "name": "Lot 1 (Green Zone)",
+            "capacity": "1,200 spaces",
+            "location": "Near residence halls"
+          },
+          {
+            "name": "Beard Garage (Red Zone)",
+            "capacity": "1,800 spaces",
+            "location": "Central campus"
+          },
+          {
+            "name": "Crescent Hill Garage",
+            "capacity": "1,500 spaces",
+            "location": "Academic core"
+          }
+        ]
+      }
+    ],
+    "financial_aid": [
+      {
+        "cost_of_attendance_2024_2025": {
+          "in_state_resident": {
+            "tuition_fees": "$6,410",
+            "room_board": "$12,990",
+            "books_supplies": "$1,000",
+            "personal_expenses": "$3,000",
+            "transportation": "$1,200",
+            "total": "$24,600"
+          },
+          "out_of_state_resident": {
+            "tuition_fees": "$17,324",
+            "room_board": "$12,990",
+            "books_supplies": "$1,000",
+            "personal_expenses": "$3,000",
+            "transportation": "$1,200",
+            "total": "$35,514"
+          }
+        }
+      },
+      {
+        "scholarships": [
+          {
+            "name": "Academic Excellence Scholarship",
+            "amount": "$2,000 - $4,000/year",
+            "requirements": "3.5+ GPA, 1300+ SAT or 28+ ACT",
+            "renewable": "Yes, maintain 3.25 GPA"
+          },
+          {
+            "name": "Bulls Excellence Scholarship",
+            "amount": "$1,000 - $2,000/year", 
+            "requirements": "3.0+ GPA, demonstrated leadership",
+            "renewable": "Yes, maintain 3.0 GPA"
+          },
+          {
+            "name": "Director's Scholarship",
+            "amount": "Full tuition",
+            "requirements": "4.0+ GPA, 1400+ SAT or 32+ ACT",
+            "renewable": "Yes, maintain 3.5 GPA"
+          },
+          {
+            "name": "Green and Gold Presidential Scholarship", 
+            "amount": "$8,000/year",
+            "requirements": "Top 10% of class, 1350+ SAT or 30+ ACT",
+            "renewable": "Yes, maintain 3.25 GPA"
+          },
+          {
+            "name": "Phi Theta Kappa Scholarship",
+            "amount": "$2,000/year",
+            "requirements": "Transfer students, PTK membership",
+            "renewable": "Yes, maintain 3.25 GPA"
+          }
+        ]
+      },
+      {
+        "graduate_funding": [
+          {
+            "name": "Graduate Student Success Fellowship",
+            "amount": "$12,000 stipend + tuition waiver",
+            "duration": "3 years",
+            "requirements": "New doctoral students, US citizens/permanent residents",
+            "application_process": "Departmental nomination only"
+          },
+          {
+            "name": "Presidential Doctoral Fellowship",
+            "amount": "$25,000 stipend + tuition waiver",
+            "duration": "4 years",
+            "requirements": "Exceptional academic achievement, research potential",
+            "application_deadline": "January 15"
+          },
+          {
+            "name": "Dissertation Completion Fellowship",
+            "amount": "$18,000 stipend",
+            "duration": "1 year",
+            "requirements": "Advanced doctoral students, proposal defense completed",
+            "application_deadline": "February 1"
+          },
+          {
+            "name": "Research Assistantships",
+            "amount": "$15,000-$20,000 stipend + tuition waiver",
+            "duration": "Varies",
+            "requirements": "Varies by department",
+            "application_process": "Contact individual departments"
+          },
+          {
+            "name": "Teaching Assistantships",
+            "amount": "$12,000-$18,000 stipend + tuition reduction",
+            "duration": "Academic year",
+            "requirements": "Graduate student status, teaching aptitude",
+            "responsibilities": "Assist with undergraduate courses"
+          }
+        ]
+      },
+      {
+        "financial_aid_office": {
+          "location": "Student Services Building (SVC) 2nd floor",
+          "hours": "Monday-Friday 8:00 AM - 5:00 PM",
+          "phone": "(813) 974-4700",
+          "email": "finaid@usf.edu",
+          "services": ["FAFSA assistance", "Scholarship counseling", "Work-study programs", "Emergency aid", "Financial literacy counseling"]
+        }
+      },
+      {
+        "work_study": {
+          "types": ["Federal Work-Study", "Institutional Work-Study", "Community Service Work-Study"],
+          "average_hours": "10-20 hours per week",
+          "pay_rate": "$12.00-$15.00 per hour",
+          "job_types": ["Administrative support", "Research assistant", "Tutor", "Library aide", "Campus tour guide"]
+        }
+      }
+    ],
+        "contact_info": [
+          {
+            "main_campus": {
+              "name": "University of South Florida - Tampa Campus",
+              "address": "4202 E Fowler Ave, Tampa, FL 33620",
+              "phone": "(813) 974-2011",
+              "website": "https://www.usf.edu",
+              "emergency": "(813) 974-2628",
+              "campus_police": {
+                "phone": "(813) 974-2628",
+                "email": "police@usf.edu",
+                "location": "USF Police Department, 4202 E. Fowler Ave, Tampa, FL 33620",
+                "services": ["24/7 patrol", "Emergency response", "Safe escort", "Lost and found"]
+              }
+            }
+          },
+          {
+            "key_departments": [
+              {
+                "name": "Admissions Office",
+                "phone": "(813) 974-3350",
+                "email": "admissions@usf.edu",
+                "location": "Student Services Building (SVC) 1st floor"
+              },
+              {
+                "name": "Graduate Admissions",
+                "phone": "(813) 974-3350",
+                "email": "gradadmissions@usf.edu",
+                "location": "Student Services Building (SVC) 1st floor"
+              },
+              {
+                "name": "Registrar",
+                "phone": "(813) 974-2000",
+                "email": "registrar@usf.edu",
+                "location": "Student Services Building (SVC) 2nd floor"
+              },
+              {
+                "name": "Financial Aid",
+                "phone": "(813) 974-4700",
+                "email": "finaid@usf.edu",
+                "location": "Student Services Building (SVC) 2nd floor"
+              },
+              {
+                "name": "Bursar's Office",
+                "phone": "(813) 974-6056",
+                "email": "studentaccounts@usf.edu",
+                "location": "Student Services Building (SVC) 1st floor",
+                "services": ["Tuition payments", "Billing inquiries", "Payment plans"]
+              },
+              {
+                "name": "Housing & Residential Education",
+                "phone": "(813) 974-0001",
+                "email": "housing@usf.edu",
+                "location": "Juniper-Poplar Hall"
+              },
+              {
+                "name": "International Services",
+                "phone": "(813) 974-5102",
+                "email": "international@usf.edu",
+                "location": "Crescent Hill Building",
+                "services": ["Visa support", "OPT/CPT assistance", "I-20/DS-2019 processing"]
+              },
+              {
+                "name": "Veterans Success Center",
+                "phone": "(813) 974-2291",
+                "email": "veterans@usf.edu",
+                "location": "MSC 4401",
+                "services": ["GI Bill advising", "Veteran benefits", "Military transition support"]
+              },
+              {
+                "name": "Career Services",
+                "phone": "(813) 974-2171",
+                "email": "careerhelp@usf.edu",
+                "location": "Marshall Student Center Suite 3200"
+              },
+              {
+                "name": "Student Health Services",
+                "phone": "(813) 974-2331",
+                "email": "studenthealth@usf.edu",
+                "location": "SHS Building"
+              },
+              {
+                "name": "Counseling Center",
+                "phone": "(813) 974-2831",
+                "email": "counseling@usf.edu",
+                "location": "SHS Building"
+              },
+              {
+                "name": "Center for Victim Advocacy",
+                "phone": "(813) 974-5757",
+                "email": "va@usf.edu",
+                "location": "SHS Building"
+              },
+              {
+                "name": "Student Accessibility Services",
+                "phone": "(813) 974-4309",
+                "email": "sas@usf.edu",
+                "location": "SVC 1133",
+                "services": ["Disability accommodations", "Testing support", "Accessible materials"]
+              },
+              {
+                "name": "Information Technology Services (IT Help Desk)",
+                "phone": "(813) 974-1222",
+                "email": "help@usf.edu",
+                "location": "Library 1st Floor",
+                "hours": "24/7 support via phone and online",
+                "services": ["Network access", "Email support", "Password reset", "Device help"]
+              },
+              {
+                "name": "Library Services",
+                "phone": "(813) 974-2729",
+                "email": "libraryservices@usf.edu",
+                "location": "USF Tampa Library",
+                "services": ["Research help", "Study rooms", "Printing", "Equipment loans"]
+              },
+              {
+                "name": "Campus Recreation",
+                "phone": "(813) 974-3177",
+                "email": "recreation@usf.edu",
+                "location": "Campus Recreation Center",
+                "services": ["Fitness classes", "Intramurals", "Outdoor trips", "Equipment rental"]
+              },
+              {
+                "name": "Dining Services",
+                "phone": "(813) 974-4499",
+                "email": "dining@usf.edu",
+                "location": "MSC Dining Services Office",
+                "services": ["Meal plans", "Allergy support", "Dining dollars"]
+              }
+            ]
+          }
+        ]
+      }
+      
